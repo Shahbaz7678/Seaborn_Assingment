@@ -2,8 +2,8 @@
 
 This project contains a collection of practice questions and solutions focused on seaborn, a Python data visualization library. It covers various examples that demonstrate how to create insightful visualizations, explore datasets, and analyze data trends using seaborn with supporting Python code.
 
-Features
-
+**Features
+**
 Visualize time series data comparing multiple lists using line plots.
 
 Explore and understand inbuilt seaborn datasets like taxis with data inspections.
@@ -16,10 +16,12 @@ Utilize pandas and matplotlib alongside seaborn for comprehensive data handling 
 
 Detailed problem statements with step-by-step approaches and code implementations.
 
-Dataset
+**Dataset
+**
 The project primarily uses seaborn's inbuilt datasets for practice, such as the taxis dataset that contains taxi trip details including pickup/dropoff locations, fare, tip amount, and payment method.
 
-Technologies and Libraries Used
+**Technologies and Libraries Used
+**
 Python (programming language)
 
 Seaborn (data visualization)
@@ -28,7 +30,8 @@ Pandas (data manipulation)
 
 Matplotlib (plot rendering)
 
-How to Use
+**How to Use
+**
 Clone this repository.
 
 Ensure Python and required libraries (seaborn, pandas, matplotlib) are installed.
@@ -37,7 +40,7 @@ Open the Jupyter notebook file (.ipynb) and run cells to execute visualizations 
 
 Follow the questions and code examples to learn seaborn plotting techniques and data exploration.
 
-Objectives
+**Objectives**
 Strengthen skills in data visualization with seaborn.
 
 Understand how to apply seaborn plotting functions to real datasets.
