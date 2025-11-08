@@ -3,6 +3,7 @@
 This project contains a collection of practice questions and solutions focused on seaborn, a Python data visualization library. It covers various examples that demonstrate how to create insightful visualizations, explore datasets, and analyze data trends using seaborn with supporting Python code.
 
 Features
+
 Visualize time series data comparing multiple lists using line plots.
 
 Explore and understand inbuilt seaborn datasets like taxis with data inspections.
